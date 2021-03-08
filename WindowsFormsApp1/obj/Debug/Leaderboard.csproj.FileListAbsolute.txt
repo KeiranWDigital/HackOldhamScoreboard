@@ -1,0 +1,14 @@
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Leaderboard.csproj.GenerateResource.cache
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Leaderboard.csproj.CoreCompileInputs.cache
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Hack Oldham Scoreboard.exe
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Hack Oldham Scoreboard.pdb
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Leaderboard.csprojAssemblyReference.cache
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\bin\Debug\Hack Oldham Scoreboard.exe.config
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\bin\Debug\Hack Oldham Scoreboard.exe.manifest
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\bin\Debug\Hack Oldham Scoreboard.application
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\bin\Debug\Hack Oldham Scoreboard.exe
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\bin\Debug\Hack Oldham Scoreboard.pdb
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Hack Oldham Scoreboard.exe.manifest
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Hack Oldham Scoreboard.application
+C:\Github\HackOldhamScoreboard\WindowsFormsApp1\obj\Debug\Leaderboard.FrmLeaderboard.resources

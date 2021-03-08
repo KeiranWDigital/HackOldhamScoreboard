@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("WindowsFormsApp1")]
+[assembly: AssemblyProduct("Leaderboard")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
